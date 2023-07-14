@@ -2,8 +2,7 @@
 
 This is a simple web application that simulates a shopping cart page for a web store and integrates with the PayPal API for payment processing. The web page allows users to view and purchase products, enter buyer information, and complete the payment process through PayPal.
 
-## Requirements
-To run the application, you need the following:
+
 
 - Web browser
 - PayPal sandbox account credentials for testing purposes
