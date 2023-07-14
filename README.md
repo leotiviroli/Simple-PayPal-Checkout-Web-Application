@@ -13,10 +13,11 @@ To run the application, you need the following:
 2. Open the `index.html` file in a web browser.
 3. View the product details, enter buyer information, and click on the PayPal button to initiate the payment process.
 4. You will be redirected to PayPal to complete the payment. Use the provided PayPal sandbox account credentials for testing.
-5. After approving the payment, you will be redirected back to the application, where a thank-you message will be displayed along with the transaction ID.
+
 
 ## Technologies Used
 - HTML
+- CSS
 - JavaScript
 - PayPal JavaScript SDK
 - PayPal API
