@@ -26,4 +26,6 @@ This is a simple web application that simulates a shopping cart page for a web s
 For more details and to review the source code, please visit the GitHub repository: [repository-link]
 
 ## Contact
-If you have any questions or need assistance, please feel free to contact the project maintainer at [email-address].
+![Logo](https://example.com/path/to/logo.png)
+
+LinkedIn: [Leonardo Tiviroli](https://www.linkedin.com/in/leonardo-tiviroli/)
