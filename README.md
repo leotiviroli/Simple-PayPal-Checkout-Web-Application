@@ -28,4 +28,4 @@ For more details and to review the source code, please visit the GitHub reposito
 ## Contact
 ![Logo](C:\Users\leona\Documents\Simple-PayPal-Checkout-Web-Application\Images\likedlnpng.png)
 
-LinkedIn: [Leonardo Tiviroli](https://www.linkedin.com/in/leonardo-tiviroli/)
+LinkedIn: [Leonardo Tiviroli](https://www.linkedin.com/in/l0-1v-t0//)
