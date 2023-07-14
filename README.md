@@ -26,6 +26,6 @@ This is a simple web application that simulates a shopping cart page for a web s
 For more details and to review the source code, please visit the GitHub repository: [repository-link]
 
 ## Contact
-![Logo](https://example.com/path/to/logo.png)
+![Logo](C:\Users\leona\Documents\Simple-PayPal-Checkout-Web-Application\Images\likedlnpng.png)
 
 LinkedIn: [Leonardo Tiviroli](https://www.linkedin.com/in/leonardo-tiviroli/)
